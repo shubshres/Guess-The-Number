@@ -1,2 +1,2 @@
-# Guess-The-Number
+# Guess-the-Number
 Short Number Guessing Game developed in Python
